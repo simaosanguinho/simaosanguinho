@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There
 
 My name is Simão Sanguinho and I am currently studying Computer Sciences at IST, Lisbon, Portugal.
 Really keen to learn new things :)
