@@ -1,8 +1,5 @@
 ### Hello There
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Instituto+Superior+Tecnico"></a>
-</p>
-
 My name is Simão Sanguinho and I'm currently studying Computer Sciences at IST, Lisbon, Portugal.
 I love cinema, running and I'm really keen to learn new things :)
 
@@ -16,16 +13,11 @@ I love cinema, running and I'm really keen to learn new things :)
 ### Programming languages:
 
   <p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
+   <img align="center" alt="Simao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
+  <img align="center" alt="Simao-C" height="30" width="45" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
+
 
     
 &emsp; 
