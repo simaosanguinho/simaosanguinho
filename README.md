@@ -1,6 +1,7 @@
 ### Hello There
 
-My name is Simão Sanguinho and I'm currently studying Computer Sciences at IST, Lisbon, Portugal.\n
+My name is Simão Sanguinho and I'm currently studying Computer Sciences at IST, Lisbon, Portugal.
+
 I love cinema, running and I'm really keen to learn new things :)
 
 </div>
