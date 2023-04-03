@@ -27,7 +27,7 @@ I love cinema, running and I'm really keen to learn new things :)
 
 <img align="left" alt="Java" width="26px" src="https://pluspng.com/img-png/java-png-java-png-clipart-png-image-200.png" style="padding-right:10px;" />
 
-<img align="left" alt="R" width="26px" src="https://imgs.search.brave.com/RcXNscRCuPkKSFchinJmWNKaG9XPQx5bjazyrOY41_k/rs:fit:840:687:1/g:ce/aHR0cHM6Ly93d3cu/Y2xpcGFydG1heC5j/b20vcG5nL21pZGRs/ZS8xMy0xMzczNDhf/bG9nby1yLXByb2dy/YW1taW5nLnBuZw" style="padding-right:10px;" />
+<img align="left" alt="R" width="26px" src="https://imgs.search.brave.com/b46Nhej3IR4yEdNoXGOYySaTZcrSdH0a-ft2XvXd0dE/rs:fit:724:561:1/g:ce/aHR0cHM6Ly93b3Jr/aW5nbmF0aW9uLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OC8wNS9SX2xvZ28u/c3ZnXy5wbmc" style="padding-right:10px;" />
     
 &emsp; 
 </p>
