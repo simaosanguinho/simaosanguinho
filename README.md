@@ -2,6 +2,7 @@
 
 My name is Simão Sanguinho and I'm currently studying Computer Science and Engineering at IST, Lisbon, Portugal.
 
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simaosanguinho)](https://git.io/streak-stats)
 
 </div>
