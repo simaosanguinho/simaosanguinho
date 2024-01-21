@@ -1,14 +1,18 @@
 ### Hi, I'm Simão
 
-You know there are more people with genius IQ living in China?
+_You know there are more people with genius IQ living in China?_
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=simaosanguinho&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
-
-<p align="center">
-![Simao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=#151515)
-</p>p>
+<br> 
+<div align="center">
+<a href="https://git.io/stats"><img src="https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=151515&title_color=fa8100" alt="GitHub Stats" /></a>
+</div>
+<br>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://komarev.com/ghpvc/?username=simaosanguinho&style=for-the-badge&color=orange" alt="GitHub Views" /></a>
+</div>  
   
 ### Tools and Programming languages:
 
