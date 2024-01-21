@@ -7,7 +7,7 @@ You know there are more people with genius IQ living in China?
 </div>
 
 <p align="center">
-![Simao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=21212100)
+![Simao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=#151515)
 </p>p>
   
 ### Tools and Programming languages:
