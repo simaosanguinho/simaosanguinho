@@ -6,8 +6,9 @@ You know there are more people with genius IQ living in China?
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=simaosanguinho&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-![Simao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=00000000)
-
+<p align="center">
+![Simao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=21212100)
+</p>p>
   
 ### Tools and Programming languages:
 
