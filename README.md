@@ -1,12 +1,12 @@
 ### Hi, I'm Simão
 
-Just a Computer Science guy doing Computer Science stuff.
+You know there are more people with genius IQ living in China?
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=simaosanguinho&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr)
+![Simao's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaosanguinho&show_icons=true&theme=codeSTACKr&bg_color=00000000)
 
   
 ### Tools and Programming languages:
