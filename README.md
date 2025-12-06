@@ -14,36 +14,26 @@ _You know there are more people with genius IQ living in China?_
 <a href="https://git.io/streak-stats"><img src="https://komarev.com/ghpvc/?username=simaosanguinho&style=for-the-badge&color=orange" alt="GitHub Views" /></a>
 </div>  
   
-### Tools and Programming languages:
+<br>
+<!-- languages and technology -->
+<h1 align="center"> Languages </h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,java,javascript,typescript,html,css,javascript,typescript" />
+</p>
+<br>
 
-<p align="left">
+<h1 align="center"> Tools </h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,maven,spring,vue,nodejs,postgres,mysql" />
+</p>
+<br>
 
-<img align="left" alt="Python" width="26px" src="/assets/python.png" style="padding-right:10px;" />
-<img align="left" alt="CPP" width="26px" src="/assets/cpp.png" style="padding-right:10px;" />
+<h1 align="center"> Setup</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,nix,apple,vscode" />
+</p>
+<br>
 
-<img align="left" alt="C" width="26px" height="30px" src="/assets/c.png" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="/assets/javascript.png" style="padding-right:10px;" />
-
-<img align="left" alt="Java" width="26px" src="/assets/java.png" style="padding-right:10px;" />
-
-<img align="left" alt="PHP" width="26px" src="/assets/php.png" style="padding-right:10px;" />
-
-<img align="left" alt="HTML" width="26px" src="/assets/html.png" style="padding-right:10px;" />
-
-<img align="left" alt="CSS" width="26px" src="/assets/css.png" style="padding-right:10px;" />
-
-<img align="left" alt="PSQL" width="26px" src="/assets/psql.png" style="padding-right:10px;" />
-
-<img align="left" alt="R" width="26px" src="/assets/r.png" style="padding-right:10px;" />
-
-<img align="left" alt="Vue" width="26px" src="/assets/vue.png" style="padding-right:10px;" />
-
-<img align="left" alt="VScode" width="26px" src="/assets/vscode.png" style="padding-right:10px;" />
-
-<img align="left" alt="linux" width="26px" src="/assets/linux.png" style="padding-right:10px;" />
-
-<img align="left" alt="Apple" width="26px" src="/assets/apple.png" style="padding-right:10px;" />
 
 
 
