@@ -18,7 +18,7 @@ _You know there are more people with genius IQ living in China?_
 <!-- languages and technology -->
 <h1 align="center"> Languages </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,java,javascript,typescript,html,css,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,rust,java,javascript,typescript,html,css" />
 </p>
 <br>
 
